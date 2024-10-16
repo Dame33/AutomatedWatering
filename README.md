@@ -1,0 +1,1 @@
+This project implements an automated moisture monitoring and plant watering system using Java, Arduino, and Firmata4J. It reads soil moisture levels via a sensor and displays data on an OLED screen. The system activates a motorized pump to water plants when the soil is too dry, and visualizes the moisture levels over time using JFreeChart.
